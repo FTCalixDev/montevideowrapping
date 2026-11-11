@@ -1,0 +1,6 @@
+{
+  "name": "Montevideo Wrapping | Detail Studio",
+  "description": "Link in Bio oficial de Montevideo Wrapping — Detail Studio especializado en PPF, Polarizados, Ploteos, Tratamientos Cerámicos Gyeon y AlloyGator en Montevideo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
